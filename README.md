@@ -31,11 +31,10 @@ Go [here](#quick-starting-the-project) if you don't have time.
     - [Rules Violation Video Representation](#rules-violation-video-representation)
 - [Contributing](#contributing)
 - [Links and References](#links-and-references)
-- [Author](#author)
 - [Licensing](#licensing)
 
 ## Motivation
-This project is made for the third year second semester System Development(CSE-3200) course.
+This project is made just for getting hands-on knowledge about image recognition etc using Machine/Deep Learning
 
 ## Introduction
 The increasing number of cars in cities can cause high volume of traffic, and implies that traffic violations become more critical nowadays in Bangladesh and also around the world. This causes severe destruction of property and more accidents that may endanger the lives of the people. To solve the alarming problem and prevent such unfathomable consequences, traffic violation detection systems are needed. For which the system enforces proper traffic regulations at all times, and apprehend those who does not comply. A traffic violation detection system must be realized in real-time as the authorities track the roads all the time. Hence, traffic enforcers will not only be at ease in implementing safe roads accurately, but also efficiently; as the traffic detection system detects violations faster than humans. This system can detect most common three types of traffic violation in real-time which are signal violation, parking violation and wrong direction violation. A user friendly graphical interface is associated with the system to make it simple for the user to operate the system, monitor traffic and take action against the violations of traffic rules.
@@ -45,7 +44,7 @@ The increasing number of cars in cities can cause high volume of traffic, and im
 The goal of the project is to automate the traffic rules violation detection system and make it ease for the traffic police department to monitor the traffic and take action against the violated vehicle owner in a fast and efficient way. Detecting and tracking the vehicle and their activities accurately is the main priority of the system.
 
 ## Quick starting the project
-1. `git clone https://github.com/rahatzamancse/EyeTask.git`
+1. `git clone https://github.com/parthamehta123/Traffic-rules-violation-detection.git`
 2. Install required python dependencies into your python virtual environment.
 3. Create the following folders in the root of the project directory: `car_images`, `tickets`.
 4. `python3 main.py`
@@ -200,28 +199,13 @@ The main reason to publish something open source, is that anyone can just jump i
 So If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 ## Links and References
-- Project homepage: https://github.com/rahatzamancse/Traffic-Rules-Violation-Detection
-- Repository: https://github.com/rahatzamancse/Traffic-Rules-Violation-Detection.git
-- Issue tracker: https://github.com/rahatzamancse/Traffic-Rules-Violation-Detection/issues
-- G. Ou, Y. Gao and Y. Liu, "Real TimeVehicularTrafficViolationDetectioninTrafficMonitorin gStream," in 2012 IEEE/WIC/ACM , Beijing, China , 2012.
-- X. Wang, L.-M. Meng, B. Zhang, J. Lu and K.-L.Du, "A Video-based Traffic Violation Detection System," in MEC, Shenyang, China, 2013.
+- Project homepage: https://github.com/parthamehta123/Traffic-Rules-Violation-Detection
+- Repository: https://github.com/parthamehta123/Traffic-Rules-Violation-Detection.git
+- Issue tracker: https://github.com/parthamehta123/Traffic-Rules-Violation-Detection/issues
 - PyQt: https://riverbankcomputing.com/software/pyqt/intro
 - opencv: https://docs.opencv.org/2.4/index.html
 - imutils: https://github.com/jrosebr1/imutils
-- In case of any help you may need from me, please contact rahatzamancse@gmail.com directly without any hesitation! I will be glad to help you.
-
-## Author
-Rahat Zaman, Sakib Reza
-rahatzamancse@gmail.com
-Student at Department of Computer Science and Engineering
-Khulna University of Engineering & Technology, Khulna
-Bangladesh
+- In case of any help you may need from me, please contact parthamehta10@gmail.com directly without any hesitation! I will be glad to help you.
 
 ** Supervised under **
-Dr. Sk. Mohammad Masudul Ahsan
-Professor
-Dept. of Computer Science and Engineering
-Khulna University of Engineering & Technology
-
-## Licensing
-The code in this project is licensed under GNU GPLv3 license.
+Self
